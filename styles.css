@@ -83,15 +83,15 @@ position: relative;
   .btn {
     margin: 10px;
     display: inline-block;
-    height: 300px;
-    width: 300px;
+    height: 400px;
+    width: 400px;
     border: 15px solid black;
     border-radius: 20%;
   }
 
   .container {
     display: block;
-    width: 200%;
+    width: 100%;
   padding-top: 300px;
     margin-top: 1%;
 
