@@ -76,7 +76,7 @@ function animatePress(currentColour){
       playSound("wrong");
       $("body").addClass("game-over");
       $("#level-title").text("Game Over, Press Any Key to Restart");
-      $("#view").text("Game Over, click here Restart");
+      $("#view").text("Game Over, click here to Restart");
 
       setTimeout(function () {
         $("body").removeClass("game-over");
