@@ -78,6 +78,7 @@ position: relative;
       visibility: visible;
        margin: 5% 5%;
       padding: 2%;
+    margin-top: 100px;
       margin-bottom: 100px;
   }
   .btn {
@@ -92,7 +93,7 @@ position: relative;
   .container {
     display: block;
     width: 100%;
-  padding-top: 300px;
+  padding-top: 100px;
     margin-top: 1%;
 
   }
