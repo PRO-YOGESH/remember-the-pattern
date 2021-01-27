@@ -1,2 +1,2 @@
 # remember-the-pattern
-simon game
+https://pro-yogesh.github.io/remember-the-pattern/
